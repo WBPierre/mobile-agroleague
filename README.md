@@ -8,7 +8,7 @@ Install [yarn](https://classic.yarnpkg.com/lang/en/docs/install/#mac-stable) to 
 
 ```bash
 # Pull from github
-git clone 
+git clone https://github.com/WBPierre/mobile-agroleague.git
 cd app
 yarn install
 ```
