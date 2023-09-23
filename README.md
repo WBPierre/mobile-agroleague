@@ -17,7 +17,7 @@ yarn install
 ## Usage
 
 ```bash
-yarn start ios
+yarn ios # --simulator="iPhone 15 Pro Max"
 ```
 ```
  # Default user account
